@@ -1,0 +1,5 @@
+pyserial>=3.4
+numpy>=1.13.3
+smbus-cffi>=0.5.1
+pytz>=2017.2
+-e .
